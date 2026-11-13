@@ -1,5 +1,7 @@
 # 🛡️ SentinelAI — Network Intrusion Detection System
 
+<img width="1672" height="941" alt="SentinelAI_ Neon Cybersecurity Command Center" src="https://github.com/user-attachments/assets/2a2ff355-9fe4-45f5-8082-8ad7dd1768ca" />
+
 **An AI-powered network intrusion detection system for identifying malicious network traffic and classifying cyberattacks using Machine Learning.**
 
 ## 📌 Project Overview
@@ -244,11 +246,12 @@ It is not currently a live network monitoring or packet-capturing system.
 - Build an interactive dashboard for displaying detection results.
 - Explore deployment options for the trained models.
 
-## 👨‍💻 Author
+## 👨‍💻 Contributors
 
-**Mohamed Tarek**
-
-GitHub: [mohamed-12-tarek](https://github.com/mohamed-12-tarek)
+| Name | GitHub |
+|---|---|
+| **Mohamed Tarek** | [mohamed-12-tarek](https://github.com/mohamed-12-tarek) |
+| **engmohamedgamalfci-tech** | [mohamed-12-tarek](https://github.com/engmohamedgamalfci-tech) |
 
 ---
 
